@@ -10,6 +10,8 @@ Titles:
 
 ## Intro
 
+<!-- START MUSIC -->
+
 Gacha games took the online world by storm starting with the release of Genshin Impact, and along with it came the popularization of the gacha system.
 
 Players *love* talking about the latest characters, discussing strategies, sharing fan art, **making** fan art;
@@ -22,15 +24,16 @@ So why is that?
 
 Well, the answer is obvious, but if you look closelier, it's a lot worse than you'd think.
 
-<!-- TRANSITION -->
+<!-- TRANSITION CARD: Intro -->
+<!-- CHANGE MUSIC -->
 
 ## Gameplay Loops
 
 <!-- BG: CS2 gameplay -->
 
-First, we need some context.
+First, we need to understand a fundamental idea that governs *all* video games.
 
-When designing a game, you **must** set a starting condition, an end goal, and a challenge that a player **must** overcome to reach said goal.
+As a game designer, you **must** set a starting condition, an end goal, and a challenge that a player **must** overcome to reach said goal.
 <!-- VIS: A linear graph like this: o---x---o -->
 
 When combined, these three form what's called a *gameplay loop*.
@@ -38,7 +41,7 @@ When combined, these three form what's called a *gameplay loop*.
 
 Take a classic for example: Plants vs. Zombies.
 <!-- BG: PvZ gameplay; an empty lawn during the "Ready Set Plant" segment -->
-<!-- VIS: PvZ banned/logo -->
+<!-- VIS: PvZ banner/logo -->
 
 You have a set of plants and an empty lawn&mdash;**this** is your starting condition.
 <!-- VIS: Highlight the plant hotbar and the lawn -->
@@ -103,121 +106,91 @@ So with this, we can call each level a *micro loop*, and when you finish it, you
 
 Now, what does this look like for a gacha game?
 
-Since Zenless happens to be my favorite in the genre, I'll use that as an example for the rest of the video.
+Since Zenless is the one I'm most familiar with, I'll be using it as the example for the rest of the video.
 
 (Breathe in)
 
-What if I told you that the end goal in Zenless isn't to finish the story, or to beat the hardest level?
+<!-- CUT MUSIC -->
 
-What if I told you, it's **this**.
+What I'm about to say sounds insane at a glance, but hear me out:
+
+The end goal in Zenless is **not** to finish the story **nor** beat the hardest enemy.
+
+That would be... **this**.
+<!-- VIS: Getting an S-rank -->
 
 <!-- TRANSITION CARD -->
+<!-- CHANGE MUSIC -->
 
 See, Gacha games do a fantastic job at hiding its real gameplay loop.
 
 When you play Zenless, you'd assume that it's a hack-and-slash.
 
-And to be fair, it *is* a hack-and-slash.
+And to be fair, it **is** a hack-and-slash.
 
 But, don't you think it's unusual for players to be spending a **massive** chunk of their play time in modes that&mdash;I can't help but notice&mdash;**ARE NOT HACK-AND-SLASH!**
 <!-- Point 1: Why such big emphasis on non-hack-and-slash modes? -->
 
 Well, that's because the game doesn't actually want you to focus *all* your attention on the combat, and one way they do this is through the user interface.
 
-### Yellow paint
-
-<!-- TRANSITION -->
+### Yellow Paint
 
 Notice how they flood you with these little red markers.
 
-I used to think that they just didn't care that players are overwhelmed with these, but the more I think about it, the more I see it as a feature.
+I used to think that they just didn't care that players get overwhelmed with these, but the more I think about it, the more I see it as a feature.
 Well, for them.
 
 By clicking around to get rid of these pesky red dots, you inadvertently expose yourself all the different content the game has to offer.
 
-Knowing our generation was practically born with ADHD, it doesn't take a lot to get us interested in even *one* of things they show.
+Knowing our generation was practically born with ADHD, it doesn't take a lot to get us interested in even *one* of the things they show.
 
-Crucially, what it does do is drag your attention away from whatever the hell you're supposed to be doing, and get you doing something else.
+Crucially, what it does do is drag your attention away from whatever the hell you're supposed to be doing, and get you doing something else,
+nearly all of which reward you with Polychrome&mdash;the base currency mainly used to get characters.
 
 Also, notice how regardless of whether you're in-game or in the pause menu, the gacha banner is always one click away?
-They're also some of the few elements on screen with the loudest colors, sitting alongside the store but more on that later. <!-- TONE: Exasperated -->
+They're also some of the few elements on screen with the loudest colors&ndash; along with the store but more on that later. <!-- TONE: Exasperated -->
 
 This is the developer's way of quietly telling you that this is important.
 
-### No End goal
+### No End Goal
 
-<!-- TRANSITION -->
+Since you're being pulled along 20 different avenues at any given time, it should be abundantly clear that the game has a lot of content on offer.
+They want you to focus on those just as much as the main story.
 
-The game has a ton of content on offer.
-
-And the fact that the game's story hasn't concluded yet is part of the strategy&mdash;they want this to stretch out for as long as possible.
-
-"Duh, it's a live-service title. They're still working on the game."
-
-Exactly, but also, not quite.
-I point this out because a proper conclusion in the story marks the end of the game.
+Think about it, these gacha companies are some of the most profitable companies in gaming and yet they can't finish the main story?
+Well, they certainly *could*, but they *really don't want to*.
+It's a live-service title after all&mdash;they want **you** playing for as *long as possible*.
 
 If Zenless **did** have a definitive ending upon release, I'd wager that it would **not** be nearly as popular&mdash;because players would finish it and leave satisfied!
-Nobody wants that... <!-- TONE: Sarcasm -->
+Nobody wants that! <!-- TONE: Sarcasm -->
 
 If that sounds stupid, hold your horses 'cus this is actually quite common in other live service titles like Halo and Call of Duty, both of which offer a lot of modes aside from the main story.
 
-In those games, the expectation is that you'll be playing a singleplayer experience and everything else comes second.
+But in those games, the expectation is that you'll be playing a singleplayer experience and everything else comes second.
 
-Imagine if Call of Duty released with an unfinished campaign.
+Like, imagine if Call of Duty released with an unfinished campaign.
 Well, first of all, we'll have a riot.
 
 Secondly, players will look for things to do in the absence of an obvious goal, which would naturally lead them to play alternate modes.
 
 Then, when the campaign does finish, many of those players will probably stay, but only because they've gotten used to this ongoing cycle.
 
-Gacha games take advantage of that and let you decide how you want to play, while nudging you at every corner to focus your attention on literally anything else.
+Gacha games takes that idea and *stretches* it for as long as they can.
 
-They incentivize you to do dailies, weeklies, biweeklies, **monthlies**, and even irregular events, so you **always** have something small to work towards.
+They then offer a ton of things to do in the meantime.
 
-The incentive, of course, is Polychrome.
+Among which is the reason most people play in the first place: characters.
 
-And what do 
-
-
-
-Something else I want to highlight is the end of some game modes.
-
-<!-- TODO: Add this part to the "why is this a problem" part -->
-Some tie their rewards to the grade you get.
-If you perform excellently, you get the full reward.
-But if you do subpar, you only get part of it.
-
-So as the player, the grade often loses its value and is instead overshadowed by the reward&mdash;one that you collect to achieve your ultimate goal of getting the banner character.
-
-<!-- TODO: Move this line elsewhere -->
-<!-- If you boil it down to its fundamentals, these are just products. -->
-<!-- VIS: Character PNGs -->
-
-These modes are just micro loops.
-You finish them, you get some reward, and a little gold star.
-
-By collecting enough pulls, you can try your luck in the gacha machine.
-
-And as a reward for winning, the game does this whole fanfare, complete with **two** alternate versions of the same track from before.
-
-Then you go ahead and share the news with your friends, maybe even stream your pull.
-Or maybe *you* don't, but the existence of this channel should be enough to prove it.
-<!-- VIS: Screenshot of the "box-galaxy-gallery" where people share their pull results -->
-
-### S-rank as the player incentive
-
-As for player incentives, I'd argue most don't play for the story or the combat, although those certainly add to the value.
-
-What they do come for are the characters.
-<!-- TEXT: 😉 -->
+### The True End Goal
 
 Zenless is **ridiculously effective** at getting you to want these characters.
 So much so, that it began before you even installed the game, starting from trailers like this.
 
 <!-- VIS: Jane Doe trailer snippet -->
+<!-- CHANGE MUSIC -->
 
-It's a gooner game, alright.
+Yeah... I see why people call this a gooner game...
+<!-- Defeated voice -->
 
 Each and every character appeals specifically to a slice of the audience, from their character designs to their animations.
 
@@ -226,205 +199,123 @@ Not to mention that each one gets at least 2 videos, and a once-a-year reminder 
 They want you to love these characters **so much** that you'll go play the game just to have them in your roster.
 <!-- VIS: Clicking the download button on their website -->
 
-A lot of the time, it doesn't matter nearly as much whether they do well in combat.
+And, a lot of the time, it doesn't matter nearly as much whether they do well in combat.
 Players generally like the character for their looks, background, or personality, *not* their in-game performance.
 A green flag for dating&mdash;sure&mdash;but not so much if you wanna win in **combat**.
 
-For those who prefer a bit more substance, their personalities, mannerisms, and backstories have a lot to offer.
+For those who prefer a bit more substance, their personalities, mannerisms, and backstories also have a lot to offer.
 
 And given there's constantly new releases, there's no shortage of characters to goon for&ndash; I mean, grind for.
 
-That's why players not only keep joining the playerbase, but existing ones also come running right back.
+That's why people not only keep joining the playerbase, but existing ones also come running right back.
 
-I mean, that in itself is not at all a bad thing.
-They're not all here to tryhard after all.
+These characters only appear for a short period.
 
-But, once they're hooked, that's when gameplay loop kicks in.
-They play all these different modes just to get that hot new character.
+Once they're gone, it'll be months, if not **years** until they get a re-run.
 
-A lot of the modes offered aren't even ones these players would normally like to play.
-Granted, a lot of them are quite well-made, but I, as a player, would generally expect to play a hack-and-slash and not these side modes for a massive chunk of my play time.
+So, players grind the ever living **crap** out of the game **just** to have a chance at getting their hot new waifu.
 
-But, we'll go ahead and play it anyway, because what choice do we have?
+And as a reward for winning, the game does this whole fanfare, complete with **two** alternate versions of the same track from before.
+Then, you go ahead and share the news with your friends, or maybe even stream your pull.
+<!-- VIS: Screenshot of the "box-galaxy-gallery" where people share their pull results -->
 
+In the absence of a traditional ending, and with the game nudging players to focus on characters at every step of the way, they'll naturally shift their focus instead on getting characters, marking it as their end goal.
 
-It doesn't even matter if they like those modes.
-Some just rush through them, some don't read the dialogue at all.
-<!-- And some modes are so ridiculously easy that you start to question whether the challenge is just there to add variety to an otherwise mundane chore. -->
+And to get them, players gotta do all these different modes just to keep collecting Polychrome
 
+## The Grind
 
+<!-- TRANSITION CARD -->
+<!-- CHANGE MUSIC -->
 
+None of the things we talked about so far are inherently bad... for the most part.
 
+The thing people have a problem with is the predatory nature of the genre.
 
+Almost universally in just about any gacha game, you have 2 main ways.
 
+Let's start with the one most players do: get grinding.
 
+### Getting Characters
 
-
-## ZZZ's true overarching goal
-
-<!-- TITLE: What is the real goal in ZZZ? -->
-<!-- BG: ZZZ gameplay -->
-
-So, where does Zenless sit in all this?
-
-We know that a game must have a gameplay loop.
-<!-- VIS: Empty gameplay loop -->
-
-We know that, for the players to **want** to play the game, they must have a goal that they **want** to achieve.
-<!-- VIS:
-- PvZ: Silver trophy
-- Osu: SS rank
-- Bedwars (Minecraft): Technoblade crown
--->
-
-On a related note, a well-designed game will naturally lead you towards the goal **it** wants you to achieve.
-<!-- VIS: Yellow paint in certain games -->
-
-<!-- VO: Savy -->
-<!-- VIS: Annoyed, asking, disapproving -->
-
-So what is it?
-
-Is your point that Zenless is a bad game?
-'Cus it doesn't lead you to a clear goal?
-
-<!-- VO: Rus -->
-
-No, quite the opposite; Zenless is **ridiculously effective** at getting you to want to achieve your goal.
-<!-- TEXT: RIDICULOUSLY EFFECTIVE (full screen) -->
-
-So much so, that it began before you even installed the game.
-<!-- VIS: A snippet of a character teaser trailer -->
-
-The overarching goal of the vast majority of the playerbase is to get the character they want.
-
-The game leads you to it starting from trailers like these.
-
-Notice how the sex appeal of these characters are apparent from the design itself down to the in-game animations.
-<!-- VIS: Remielle banner image, teaser trailer -->
-
-Their personalities and mannerisms appeal specifically to their target audiences.
-<!-- VIS: Vivian
-- Obsessed with MC
-- Obsessed with MC
-- Obsessed with MC
--->
-
-The animations are insanely flashy, and really emphasizes how powerful these characters can be.
-<!-- VIS: Trailer animations -->
-
-And, characters get a teaser trailer, a *gameplay* trailer, and maybe even a music video, **each**.
-<!-- VIS:
-1. Teaser Trailer
-2. Gameplay Trailer
-3. Music Video
--->
-
-Oh, don't forget about the birthday posts and collabs.
-<!-- VIS: Birthday community posts, collabs -->
-
-It doesn't even matter if the use of these characters are any fun, because the fun comes from the act of collecting, building, and ultimately using them, even in other games!
-<!-- VIS: Upgrading a character -->
-<!-- VIS: Blade in Fortnite -->
-
-I mean, Zenless and Genshin have quite an engaging combat and world exploration if I do say so myself, so good on them for that.
-<!-- VIS: Zenless & Genshin combat gameplay -->
-
-But something like Azur Lane barely even qualifies as a side-scroller when **this** part of the game is so simplistic.
-<!-- VIS: Azur Lane combat (manual) -->
-
-And then, a few level-ups later, the game would even play itself.
-<!-- VIS: Azur Lane combat (auto) -->
-
-And I played until I was like level 120 or something, because the combat was never the point!
-Enterprise was.
-
-<!-- VIS: Enterprise png -->
-<!-- SFX: Enterprise voice line "Owari da!", distorted -->
-
-That same point carries across all the gacha games I've played: it's all about the characters.
-<!-- VIS: PNGs of 3 of the most popular characters in various gacha games -->
-
-They talk about which characters they like, they share fan art, **make** fan art.
-
-They do commissions, skip through dialogue, skip banners, anything just to save up for their desired character.
-
-Then, they get excited when they finally **do** get them.
-
-A lot of the time, only **then** do they find a purpose for said character because the player got them for who the character is, and not for what they're capable of&mdash;a green flag for dating, sure; not so much for those looking to win in **combat**.
-
-**These** are products!
-And you win the game of gacha when they enter your roster.
-
-All these modes are just micro loops; they're just a means to accomplish the macro loop that is the gacha system!
-
-## Method A: Grind
-
-Which I guess leads me right onto *how* to obtain these characters.
-
-There's a good chance you already know how if this video was recommended to you, but there's a value in knowing *exactly* how.
-
-Almost universally in just about any gacha game, there are 2 main ways.
-
-Let's start with the one that most players do: get grinding.
-
-- Commissions <!-- VIS: Interknot -->
-- Exploring <!-- VIS: Lost container -->
-- Being nosy <!-- VIS: Talking to NPCs -->
-- Making friends <!-- VIS: Hangout with characters -->
-- Main story <!-- VIS: Main story -->
-- *Side* story <!-- VIS: Side stories -->
-- Permanent events <!-- VIS: Permanent events (like the soup shop) -->
-- and doing Hollow Zero: Lost Void, which has the most to give by far. <!-- VIS: Hollow Zero Lost Void -->
+- Commissions
+- Exploring
+- Making friends
+- Main story
+- *Side* story
+- and if you want more, Hollow Zero: Lost Void has the most to give by far.
 
 Although, once they're gone, they're **gone**.
 
-Not to worry; there are recurring sources too, like:
+Not to worry, there are regularly recurring sources too, like:
 
-- Talking to a dog <!-- VIS: Lotto -->
+- Talking to a dog
 - Doing your dailies
 - Doing your weeklies
 - Checking your mail
 - Visiting their website every day
 
-Though realistically, those only give a few at a time, so that won't cut it.
+Though realistically, those only give a few at a time; that won't cut it.
 
-If you want more, *these* are your best bet, although 2 of them require your strongest teams&mdash;more on those later.
+You'll want to play *these*.
 
-<!-- VIS: Shiyu Defense, Deadly Assault, Hollow Zero Weekly commissions, Limited-time events -->
+However, 2 of them require your strongest teams, and 1 is an entirely different game in and of itself.
 
-The game is so centered around collecting Polychrome&mdash;or rainbow duct tape&mdash;that there's an entire menu dedicated to telling you where to get them, how long they take to do, and how much you can expect.
+The game is so centered around collecting Polychrome&mdash;or rainbow duct tape&mdash;that there's an entire menu just for finding Polychrome!
 
-The thing is, this very menu also exposes the crux of the issue.
+The thing is, this also exposes the crux of the issue!
 
-Let's total how much you get on both limited-time and permanent ones.
+Let's total how much you get on both the one-time and regular Polychrome sources.
+
+<!-- VIS: Calculate the total on Excalidraw -->
 
 <!-- VO: Savy -->
+Woah, that's a lot!
 
-Woah... That's a lot!
-
-<!-- VO: Rus -->
-
-Right?!
-
-...
-
-But is it, though? (chuckle)
+<!-- VIS: Well, yes, but actually no. -->
 
 A single pull costs 160 Polychrome.
 That gives you a nought-point-six percent (0.6%) chance to get an S-rank character.
 
+And if you've collected all the one-time rewards, you get *this* many pulls.
+
 After 75 pulls with no S-rank, the chances will increase gradually until you hit 100% chance at your 90th pull.
 
-Which means, if you're starting from 0 pity and 0 guarantee, having 80 pulls ready to go gives you a 91.8% chance of getting an S-rank!
+Which means, if you're starting from 0 pity and 0 guarantee, having 80 pulls ready to go gives you a *91.8% chance* of getting an S-rank!
 
-But critically, only a **51%** chance of getting the one on the banner.
+So that one-time vat from earlier runs out much more quickly once you start pulling!
 
-Because, of course, you only get the banner character 50% of the time by default, and only becomes guaranteed if you have already lost the 50/50.
+But the story's not over.
+In those 80 pulls, you only get a **51%** chance of getting the one on the banner.
 
-That is to say, you would have spent 80 pulls, or **12,800** Polychrome, or over **5 weeks** of recurring rewards, just for a 51% chance to get the character you want.
+Because, of course, you only get the banner character **50% of the time**, and only becomes guaranteed if you have already lost the 50/50.
 
-So if you lost that 50/50, winning isn't actually winning, because you haven't won *enough*.
+And since that large one-time total from earlier will eventually run dry, you'll have no choice but to do the recurring ones at some point.
+
+That is to say, you would have spent 80 pulls, or **12,800** Polychrome, or over **5 weeks** of recurring rewards, just for a **51% chance** to get the character you want.
+
+So if you lost that 50/50, winning isn't actually winning, **because you haven't won enough**!
+
+---
+
+<!-- TODO: WRITE -->
+
+- Coercive grind
+  - They incentivize you to do dailies, weeklies, biweeklies, **monthlies**, and even irregular events, so you **always** have something small to work towards.
+  - The incentive, of course, is Polychrome.
+
+- Extrinsic reward cheapens the experience
+  - Some tie their rewards to the grade you get. If you perform excellently, you get the full reward. But if you do subpar, you only get part of it.
+  - So as the player, the grade often loses its value and is instead overshadowed by the reward&mdash;one that you collect to achieve your ultimate goal of getting the banner character.
+  - This drives players to skip through dialogue and rush through events just to get the reward.
+  - They'll play modes they don't even enjoy just to get rewards.
+  - If Zenless was mainly a hack-and-slash, then players shouldn't be spending a massive chunk of their time playing modes that aren't hack and slash.
+
+- The macro loop is the gacha.
+- The micro loop are the different modes you play to collect Polychrome.
+  - But, once they're hooked, that's when gameplay loop kicks in.
+
+---
 
 <!-- VO: Savy -->
 
@@ -449,81 +340,115 @@ I made you say that. (chuckle)
 
 ### Upgrading characters
 
-Unless you've been playing the game for so much that you already have max level **teams**, you probably only get a portion of your weekly rewards.
+<!-- TRANSITION CARD -->
+<!-- CHANGE MUSIC -->
+
+Unless you've been playing the game for so much that you already have maxed-out *teams*, you probably only get a portion of your weekly rewards.
 
 And if you want *those*, you'll need to upgrade your characters.
 
 That in itself is not a problem at all.
 I mean, upgrading characters has been a thing for like 3 decades, and the act of it is generally pretty fun.
 
-<!-- TODO: Record from here -->
-
 Let's say I want to get the Terra Blade&mdash;one of the strongest late-game swords in Terraria.
+
 To do that, I'll need to complete all these different swords, each and every one of which requires me to visit a new biome, fight a different enemy, mine a different material, or some combination of those.
+
 Every time I complete one of these, I also get a new weapon I can use in the meantime, which itself also changes my gameplay, be it for being larger, faster, attacking at range, or whatever other quirk.
 
 In every step of the way, I'm being presented a different challenge and an aptly unique reward for doing so.
+
 And in the end, I get a sword that's strong enough to challenge the final boss of the game: The Moon Lord.
 
 Getting this weapon was extremely grindy and took the better part of an entire week.
-But, I was never bored or felt like just rushing through the steps just to get it over with, because I want the intermediary goal just as much as the main goal.
+
+But, I was never bored or felt like just rushing through the steps just to get it over with, because I enjoyed the intermediary goal just as much as the main goal.
+
+---
 
 Now, let's contrast this to Zenless, and my goal is to build Roxy to her Trial preset&mdash;good enough for most of the challenges she'll face.
-To get the upgrade materials, I can complete commissions, play through the main story, maybe buy them instead, but realistically, they're best obtained here.
+
+To get all these materials, I can complete commissions, play through the main story, maybe buy them instead, but realistically, they're best obtained here.
+<!-- VIS:
+- An Excalidraw chart of all the materials needed for Roxy
+- Talking to an NPC for a commission
+- Playing through main story
+- Buying at the convenience store
+- HIA lobby
+-->
 
 When I finish upgrading one of the many things for this character, I get... a slightly stronger Roxy.
 Okay... well, obviously, no character is meant to be played in this state, so I've gotta upgrade her further.
+<!-- VIS: Roxy in VR, dealing meager damage -->
 
-So, I go ahead and do that, and a week later, I can't help but feel like I've done nothing but visit the same 2 places and fighting the same enemies repeatedly.
+No problem.
+If I can do it in other games, I can sure as hell do it here, too.
 
-Might I mention that the enemies themselves feel kinda same-y?
-I don't mean the design, I mean the way you fight them.
-I just follow my team's attack pattern, then parry or dodge when the cross appears.
-In fairness, the bosses themselves are interesting to fight, but having to do so 5 or more times starts to get tedious.
+However, there's a bit of a roadblock.
+<!-- VIS: Sixth street roadblock -->
 
-And, again, the reward is just... a higher number.
-
-Anyway, once I'm done upgrading Roxy, I still can't use her because&mdash;guess what&mdash;you still need other matching characters to make a cohesive team, which means I've gotta get back on the grind for upgrade materials, or even Polychrome if existing characters just won't cut it.
-
-Right, they're all upgraded, surely I can go play and make easy&ndash; aaaaand gg.
-These? What do these do?
-Which of their attacks are most effective?
-*When* do I use what attacks?
-I don't know! I've still gotta do my homework!
-Unless of course I just button-mash my way to victory.
-Heaven forbid, you're straying away from a team someone else already made, you'll have to figure out how exactly the team works together, too!
-
-Then, finally, my team is ready.
-And my reward is... a big number on my screen, and a moderately wider net for my bi-weeklies.
-
-At least it's a new team with its own interesting patterns...?
-
-But by the time the next banner rolls around, this team will get old too.
-
-That's before I even talk about collecting the amount of time you spend collecting the materials themselves.
-
-Using my Roxy's recommended team as an example, that means I need this many of all these materials.
-
-<!-- NOTE: End recording here -->
-
-Okay, no problem.
-I mean, that's a lot, but if you've played just about any old RPG, grinding isn't that uncommon, so whatever, right?
-
-But here's the thing: you gain 10 battery per hour, which caps at 240 per day, plus 80 if you get some coffee.
+You gain 10 battery per hour, which caps at 240 per day, plus 80 if you get some coffee.
 That's 320 per 24-hour period.
 
 However, you only get this many of each material for every 20 battery consumed.
 
-Which means, assuming you start with no items playing at the highest difficulties with the best rewards, you would need&mdash;**at minimum**&mdash;4960 battery or 16 days worth of recharge, just to collect the materials for Roxy *alone*, **on her trial build**, and that doesn't even include the discs themselves because 3 main stats and 24 substats and its upgrades are random so the time to get them could be 5 minutes to 5 months, if lady luck finds you ugly.
+Which means, assuming you start with no items playing at the highest difficulties with the best rewards, you would need&mdash;**at minimum**&mdash;4960 battery or 16 days worth of recharge, just to collect the materials for Roxy *alone*, **on her trial build**!
+And that doesn't even include the discs themselves because 3 main stats and 24 substats **and its upgrades** *are random* so the time to get them could be 5 minutes to **5 months**, if lady luck finds you ugly!
 
-And you have to do this for 2 more characters to complete the team!
+So over two weeks later, I can't help but feel like I've done nothing but visit the same 2 places and fighting the same enemies repeatedly!
+<!-- VIS:
+- Combat Simulation gameplay
+- Notorious Hunt gameplay
+-->
 
-Oh, and don't forget, you still gotta have the best W-Engine that works for her **specifically**, from its own separate banner, or at least the best one you can manage.
+Might I mention that the enemies themselves feel kinda same-y?
+I don't mean the design, I mean the way you fight them.
+<!-- VIS: Combat Simulation gameplay -->
 
-Remember those 2 modes I mentioned earlier?
+I just follow my team's attack pattern, then parry or dodge when the cross appears.
+In fairness, the bosses themselves are interesting to fight, but having to do so 5 or more times starts to get tedious.
+<!-- VIS: Notorious Hunt gameplay -->
 
-<!-- TODO: Retake from here -->
-The difficulty scaling on those ramp up so much that it's virtually impossible to 100% beat unless you have a PhD in Zenlessology and all the time in the world to spend grinding for a bi-weekly supply of a fraction of the pulls you need to get a single S-rank.
+And, again, the reward is just... a higher number.
+<!-- VIS: Roxy in VR, dealing slightly higher damage -->
+
+Even if I did finish upgrading Roxy, I still can't use her because&mdash;guess what&mdash;I still need other matching characters to make a cohesive team!
+
+Sure, I could form one from my existing teams, but Shiyu Defense requires **two** of my best teams, and **three** in the case of Deadly Assault.
+
+This means I'll either have to spend another **month** to upgrade two of my other characters, or perhaps even longer if I want to save up for a limited S-rank.
+
+Not to mention&ndash; if you want the character's best performance, you've gotta get their specialty item which you can get in **its own** gacha banner, or at least the best one you can manage.
+
+Okay, let's say I've got them all upgraded and ready to go.
+Surely, I can go play and make easy&ndash; aaaaand gg.
+<!-- Defeated in Shiyu Defense -->
+
+These? What do these do?
+I mean, I know they deal damage or something, but with the absolute wall of text these characters have, you'd think it does something more than just that.
+
+What are each of my characters useful for?
+When do I switch characters?
+When do I use which attacks?
+
+Good luck~!
+
+Unless I read this encyclopedia of knowledge or watch a video about 'em, my best hope is to just click buttons until a certain pattern works fine enough.
+
+Heaven forbid, you *do* watch a video only to find out another character you already have is actually more effective than one you spent weeks upgrading.
+
+Granted, the game does offer resources, but they themselves aren't that actionable.
+
+At least the new team has its own interesting patterns...?
+
+But by the time the next banner rolls around, this team will get old too.
+
+---
+
+Adding insult to injury, those 2 modes I mentioned earlier?
+<!-- VIS: Icons for Shiyu Defense and Deadly Assault -->
+
+The difficulty scaling on those ramp up so much that it's virtually impossible to 100% beat unless you have a PhD in Zenlessology and all the time in the world to spend grinding in exchange for a bi-weekly supply of a fraction of the pulls you need to get a single S-rank.
 
 So, the largest regular sources of Polychrome are basically inaccessible for anyone but the most diehard of players.
 
@@ -545,9 +470,9 @@ If you have, then it's working on *you*.
 
 We play games to have fun; perhaps unwind for the day, yet gacha games convinced us to sign up for what's basically a part-time job.
 
-Absolutely, some do find that fun, but a helluva lot more sure as hell don't.
+Sure! Some do find that fun, but a helluva lot more sure as hell don't.
 
-Giving out free pulls or shortening the grind doesn't change the dynamic whatsoever, it just masks it.
+Giving out free pulls, shortening the grind, or giving rebates doesn't change the dynamic whatsoever, it just masks it.
 
 If anything, making characters harder to get makes them way more valuable and sought after.
 
@@ -558,19 +483,18 @@ For reference:
 
 A CS2 match takes anywhere from 30 minutes to an hour for its macro loop to finish&mdash;a regular competitive match.
 
-Plants vs. Zombies takes about 9 hours to complete levels 1 to 50.
+Plants vs. Zombies takes about 9 hours from Peashooter to Zomboss.
 
 Skyrim takes about 35 hours for the mainline story.
 
 And, Terraria takes around 51 hours from creating a new world to defeating the Moon Lord.
 
-<!-- TODO: Insert take -->
 In these games, the time and money you spend leave you with a complete, fulfilling journey from start to finish, **on your own terms**.
 In contrast, Gacha games like Zenless stretch that investment over several weeks of daily check-ins, and all you get is, what, a **chance** to get a character?
 
-Even if we get 20 free pulls from event rewards, which is around what I expect for each banner, that's still 9,600 Polychrome or 8 weeks of recurring rewards **if** you can actually get them, and that's ignoring the time it takes to upgrade characters.
+Even if we get 20 free pulls from event rewards, which is around what I expect for each banner, that's still **9,600 Polychrome** or **8 weeks** of recurring rewards **if** you can actually get them, and that's ignoring the time it takes to upgrade characters!
 
-Well, it's not like you play for 8 weeks straight, but the point is that you're essentially coerced into playing every single day or else, you miss out on rewards.
+Well, it's not like you play for 8 weeks straight, but the point is that you're essentially coerced into playing every single day or else, you miss out on rewards!
 
 Not completing your dailies loses you 60 Polychrome and a day worth of upgrade materials.
 
@@ -580,14 +504,16 @@ Maybe even more depending on the ongoing events.
 
 Whereas the games I listed let you just play whenever, and for however long you want.
 
-You can't do that in Zenless; you must play at least once a day and do your dailies and weeklies, and then leave for the day when you've got nothing else to do.
+You can't really do that in Zenless; you've gotta play at least once a day and do your dailies and weeklies, and then leave when you're out of dailies and events to do.
 
-**They know** it's harder to get you back the longer you leave the game, so they push you out the door once you've caught up to prevent burnout, yet expect you to form a routine to come right back.
+**They know** it's harder to get you back the longer you leave the game.
+They make the rest of the activities seem like a lot of work, so those who want to keep playing have plenty to do, but those who don't get pushed out to avoid burnout.
+Yet, there's an expectation that you'll form a routine to come right back.
 
 That's why there are so many kinds of materials, only a few of which are common among your characters.
-And the counts are small enough that they're attainable within a couple of days, but a couple of days is still a couple of days.
+And the counts are small enough that they're attainable within a couple of days, giving you that little dopamine hit, but a couple of days is still a couple of days!
 
-That's why there are so many different modes, so you don't get bored with playing the same one over and over.
+The same goes for why there are so many different modes that aren't even hack-and-slash, so you don't get bored with playing the same one over and over.
 
 Those aren't necessarily bad things in isolation, but when the goal is to lock you in for as long as possible, it becomes outright disrespectful for your time.
 
@@ -595,9 +521,9 @@ Even some ad-infested mobile games and other live service titles aren't this pre
 
 Mobile games are usually free because no one wants to pay for the game upfront.
 So they make the experience be so horrible that the player pays what's honestly a reasonable amount just to get rid of the ads and the daily energy limits and whatever else.
+<!-- TEXT: SOME ARE DEFINITELY JUST AS PREDATORY -->
 
-The creators have already made their money.
-They don't care what you do with it.
+The creators have already made their money; they don't care what you do with it!
 
 Live service titles like CS2 and Fortnite sure do have FOMO and regular play schemes as well&mdash;oh, don't mistake them for angels&mdash;but what's important is that you can win just as much regardless of whether you bought a skin, or a battlepass.
 
@@ -678,23 +604,45 @@ You literally buy your way into winning the game of gacha.
 
 <!-- VIS: Loop 1 allows you to buy Monochromes which can be used directly for pulls, therefore winning the game. -->
 
-Even if you argue that the game is strictly a hack-and-slash, the game is still pay-to-win because buying Monochrome could be used to skip waiting for battery to recharge, significantly shortening the timeline for those willing to spend.
+Even if you argue that the game is strictly a hack-and-slash, the game is still pay-to-win because buying Monochrome could be used to skip waiting for battery to recharge, significantly shortening the upgrade timeline for those willing to spend.
 
 <!-- VIS: Loop 2 allows you to buy materials that speed up upgrading characters which nets better rewards in harder content, therefore also winning the hack-and-slash part of the game. -->
 
 I don't actually care whether the game is hack-and-slash or not; that's beside the point!
 
-It's that the game is so pay-to-win that you have to subject yourself to daily chores just to **gamble** and maybe get to play as the characters you like&mdash;that's my problem.
+It's that the game is so pay-to-win that you have to subject yourself to daily chores just to **gamble** and maybe get to play as the characters you like&mdash;that's my problem!
 
-"Oh, but see, there's actually some amount of rebates for your pulls, and they give out free Polychrome all the time!"
+"It's their money, let them do what they want!"
 
-Do you hear yourself?
+Oh, so we're just tolerating irresponsible money spend now?
 
-<!-- TODO: INSERT INSERT INSERT -->
+To be clear, I'm not against splurging on things we like.
 
-*clap*
+The issue here is that there's no real value here; you're paying for something that you'll have nothing to show for once the servers shut down&mdash;and they **will** shut down.
 
-I'm nearly done editing this video when I encountered this in my video feed.
+Oh, it's about the experience?
+
+What experience?
+The act of seeing big titty mommy show a big number on your screen?
+You've gotta be kidding me!
+
+You know what *else* you can do with $500?
+Going on a local trip with your friends.
+
+Oh, your friends live abroad?
+Buy everyone a game, then play it together!
+
+Got no friends?
+Go to a LAN, or a convention, and make friends *there*!
+Or if you're really anti-social, at least buy a physical representation of the character you so crave!
+
+**Get a life!!!**
+
+---
+
+(clap)
+
+I was nearly done editing this video when I encountered this in my video feed.
 
 Despite everything I've said, I actually agree with a lot of the points provided: that the game is really well-made, and that Zenless is actually more forgiving than other gacha games.
 
@@ -704,7 +652,7 @@ Coming from Genshin, I do think that the grass is indeed greener here, even toda
 <!-- VIS: Wikipedia pages for the 1st and 2nd Opium War, edited to read "Copium War" -->
 
 You know what?
-Yeah, it is nice that I can just hop in for 5 minutes, click a few buttons, and just choose not to do my dailies today.
+Yeah, it is nice that I can just hop on for 5 minutes, click a few buttons, and just choose not to do my dailies today.
 If even that's too much, I can skip the day altogether; I won't get my Polychrome, but a third of my energy will be available as reserves.
 
 You know what's also nice?
@@ -721,21 +669,21 @@ Do you like spending hundreds of dollars for **one character**, in a video game?
 
 With that time **or** money, we could be enjoying a vast array of novel and relaxing experiences, instead of doing the same thing over and over and over and over.
 
-And then, you wonder why the rest of the gaming industry has gone to crap?
+And then, you wonder why the rest of the gaming industry has gone to crap?!
 
 It's 'cus of things like this!
 
 You allowed this to happen!
 
-You keep allowing it to happen!
+You **keep** allowing it to happen!
 
-Why?! Make it make sense!
+**Why?! Make it make sense!!!**
 
-<!-- STOP HERE -->
+<!-- STOP YELLING HERE -->
 
 ## Love-hate Relationship
 
-*\*Deep breath\**
+*(Deep breath)*
 
 I did not use Zenless as an example because I hate this game so, so, so, so much, but rather because it's the one I actually wanted to like.
 
@@ -755,7 +703,7 @@ And, to think, one should not be feeling this way about a video game.
 I'm here to enjoy my time, and yet I'm dreading every minute of it?
 This doesn't make sense!
 
-(Breath)
+*(Breath)*
 
 When Zenless was released, I had good hopes.
 
