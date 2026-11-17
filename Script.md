@@ -10,6 +10,10 @@ Titles:
 
 ## Intro
 
+If Zenless is a hack-and-slash, then what the hell are *these*?
+
+---
+
 <!-- START MUSIC -->
 
 Gacha games took the online world by storm starting with the release of Genshin Impact, and along with it came the popularization of the gacha system.
@@ -82,7 +86,8 @@ At which point, you have essentially *finished the game*! Congratulations!
 <!-- VIS: GIF of people clapping-->
 <!-- SFX: generic applause -->
 
-But look: if you inspect the game **less** closely, you start to see an overarching gameplay loop!
+But look: if you inspect the game **less** closely, you'll see the subscribe button. You should click it.
+Beside it, you'll also start to see an overarching gameplay loop!
 <!-- VIS: A chain of gameplay loops -->
 
 There's a new starting condition, an end goal, and a challenge to overcome, that wraps all the levels together!
@@ -101,6 +106,45 @@ So with this, we can call each level a *micro loop*, and when you finish it, you
 - 8:00 position: Flower pot
 - 10:00 position: Dr. Zomboss
 -->
+
+<!-- CUT MUSIC -->
+
+## Minecraft & osu!
+
+<!-- SFX: Clap -->
+<!-- START MUSIC -->
+
+Pop quiz!
+
+What is the macro gameplay loop behind Minecraft?
+
+<!-- VIS: 3 second timer -->
+<!-- SFX: Clock ticking -->
+
+That's right, there is none!
+
+Here's a hot take: Minecraft isn't a game.
+
+This video explains the concept much better that I could, but basically, Minecraft is a toy, or in other words: a platform.
+
+What you *actually* play are: Survival, Bedwars, Cops & Robbers, Feed the Beast
+
+*Those* have a gameplay loop, *Minecraft* does not.
+
+Similarly, you don't play *Roblox*, you play Anime Femboy Cart Ride **in** Roblox, silly!
+
+Pedantic, I know, but this goes to show that it's not always plain and simple.
+
+On that note, how about something like osu?
+... /os/?
+
+Anyway, we know its micro loop&mdash;that's simple enough&mdash;but what's the **macro** loop?
+
+Well, for this one, you kinda just decide for yourself.
+
+Some like to get an S or a **double S**, others like a bigger PP... score.
+
+As for me, I just like to get an A on harder and harder difficulties on songs I like.
 
 ## Gacha games' gameplay loop
 
@@ -296,27 +340,6 @@ That is to say, you would have spent 80 pulls, or **12,800** Polychrome, or over
 
 So if you lost that 50/50, winning isn't actually winning, **because you haven't won enough**!
 
----
-
-<!-- TODO: WRITE -->
-
-- Coercive grind
-  - They incentivize you to do dailies, weeklies, biweeklies, **monthlies**, and even irregular events, so you **always** have something small to work towards.
-  - The incentive, of course, is Polychrome.
-
-- Extrinsic reward cheapens the experience
-  - Some tie their rewards to the grade you get. If you perform excellently, you get the full reward. But if you do subpar, you only get part of it.
-  - So as the player, the grade often loses its value and is instead overshadowed by the reward&mdash;one that you collect to achieve your ultimate goal of getting the banner character.
-  - This drives players to skip through dialogue and rush through events just to get the reward.
-  - They'll play modes they don't even enjoy just to get rewards.
-  - If Zenless was mainly a hack-and-slash, then players shouldn't be spending a massive chunk of their time playing modes that aren't hack and slash.
-
-- The macro loop is the gacha.
-- The micro loop are the different modes you play to collect Polychrome.
-  - But, once they're hooked, that's when gameplay loop kicks in.
-
----
-
 <!-- VO: Savy -->
 
 You don't have to engage with the gacha mechanic you know?
@@ -327,7 +350,8 @@ Well, I can go ahead and play Assassin's Creed: Black Flag and only play the shi
 
 Let me just play the gacha game and not do the gacha part.
 
-Yeah, totally valid, except that's not how the designers meant for you to play, and that's not how most people play it!
+Yeah, totally valid, except that's not how the designers meant for you to play!
+And that's not how most people play it!
 
 <!-- VO: Savy -->
 
@@ -407,6 +431,7 @@ I don't mean the design, I mean the way you fight them.
 
 I just follow my team's attack pattern, then parry or dodge when the cross appears.
 In fairness, the bosses themselves are interesting to fight, but having to do so 5 or more times starts to get tedious.
+It turns out that fancy visual effects can only get me so far.
 <!-- VIS: Notorious Hunt gameplay -->
 
 And, again, the reward is just... a higher number.
@@ -452,6 +477,12 @@ The difficulty scaling on those ramp up so much that it's virtually impossible t
 
 So, the largest regular sources of Polychrome are basically inaccessible for anyone but the most diehard of players.
 
+The insane part about all this is that this grind is also what bleeds players of their interest for the game.
+
+Any player-respecting developer would do **anything** just to make sure their players are enjoying the game to the fullest.
+
+But that **simply** does **not** appear to be the goal here.
+
 ### Time investment
 
 In their defense, limited-time events and activity rewards tend to lessen the grind significantly.
@@ -492,9 +523,10 @@ And, Terraria takes around 51 hours from creating a new world to defeating the M
 In these games, the time and money you spend leave you with a complete, fulfilling journey from start to finish, **on your own terms**.
 In contrast, Gacha games like Zenless stretch that investment over several weeks of daily check-ins, and all you get is, what, a **chance** to get a character?
 
-Even if we get 20 free pulls from event rewards, which is around what I expect for each banner, that's still **9,600 Polychrome** or **8 weeks** of recurring rewards **if** you can actually get them, and that's ignoring the time it takes to upgrade characters!
+Even if we get 20 free pulls from event rewards, which is around what I expect for each banner anyway, that's still **9,600 Polychrome** or **8 weeks** of recurring rewards **if** you can actually get them, and that's ignoring the time it takes to upgrade characters!
 
-Well, it's not like you play for 8 weeks straight, but the point is that you're essentially coerced into playing every single day or else, you miss out on rewards!
+Well, it's not like you play for 8 weeks straight&ndash;
+But the point is that you're essentially coerced into playing every single day or else you miss out on rewards!
 
 Not completing your dailies loses you 60 Polychrome and a day worth of upgrade materials.
 
@@ -502,12 +534,16 @@ Not doing your weeklies loses you 220 Polychrome and a week of other upgrade mat
 
 Maybe even more depending on the ongoing events.
 
-Whereas the games I listed let you just play whenever, and for however long you want.
+Whereas the games I listed let you just play whenever, and for however long you want!
 
-You can't really do that in Zenless; you've gotta play at least once a day and do your dailies and weeklies, and then leave when you're out of dailies and events to do.
+You can't really do that in Zenless!
+
+You've gotta play at least once a day and do your dailies and weeklies, and then leave when you're out of dailies and events to do.
 
 **They know** it's harder to get you back the longer you leave the game.
-They make the rest of the activities seem like a lot of work, so those who want to keep playing have plenty to do, but those who don't get pushed out to avoid burnout.
+
+They make the rest of the activities seem like a lot of work, so those who want to keep playing have plenty to do, but those who don't, get pushed out to avoid burnout.
+
 Yet, there's an expectation that you'll form a routine to come right back.
 
 That's why there are so many kinds of materials, only a few of which are common among your characters.
@@ -563,29 +599,38 @@ Since we're on the topic of whales, what if we join them?
 
 First, let's have a bit of a rewind:
 
-We've established that Zenless is not a hack-and-slash with gacha mechanics, but the other way around.
+We've established that while Zenless may be a hack-and-slash in its micro loops, its **macro** loop revolves entirely around the gacha mechanic.
 
-We know that the game takes a disproportionate amount of time to reach a win state, which is by winning the banner character.
+We know that the game takes a disproportionate amount of time to collect Polychrome to reach even a 91% chance to get **any** S-rank.
 
-To get there as fast as possible, you gotta upgrade them characters, which itself takes a disproportionate amount of time.
+To get there as fast as possible, you gotta upgrade them characters, which itself takes a ludicrous amount of time.
 
 And finally, we get pushed to play *just enough* every day, with our rewards min-maxed to keep us playing for as long as possible long-term, so that we talk about the game for longer and boost the game as a topic algorithmically.
 
-With all that in mind, I will now show you another way.
+<!-- VO: Savy -->
+So, if the game is so draining, why would anyone pay?
 
-<!-- VIS: Opening the banner screen, opening the signal shop, buying Monochrome, convert to Polychrome, convert to Master Tapes, and pull. -->
+<!-- VO: Rus -->
+Well, I think it's best I just show you.
 
-By spending $273 **with** the first-time bonuses, you get at least 1 banner character guaranteed, maybe more if you're lucky.
+<!-- VIS: Pause menu, signal shop, buy monochrome -->
+<!-- CHANGE MUSIC -->
+
+Now, I'm not spending any more than I have to for this game, but imagine for a second that I had bought a hundred dollar's worth instead.
+
+I get **6480** Polychrome or **6 weeks** of dailies, weeklies, and **full completion** of the bi-weeklies.
+
+But guess what&mdash;that's not even enough to get a single character guaranteed.
+
+For that, you'll need to spend $273 **with** the first-time bonuses.
 
 <!-- VIS: Best value purchase (zero waste): 28800 Monochrome = (6480×2)+6480+(3280×2)+(980×2)+(300*2)+(60*2)+60+60 = (99.99*2)+49.99+14.99+4.99+(0.99*3) = $272.92 -->
 
 If you've used up all your bonuses, it goes way up to $445&mdash;that is over **5 copies** of GTA 6 for **one character**!
-
-<!-- TODO: Insert -->
-Even with rebates and more free pulls, that's still hundreds of dollars.
-<!-- End Insert -->
-
 <!-- VIS: No bonuses: 28800 Monochrome = 6480+6480+6480+6480+1980+300+300+60+60+60+60+60 = (99.99*4)+29.99+(4.99*3) = $444.92 -->
+
+Have I mentioned that this is straight up softcore gambling?!
+You don't even get anything tangible for it!
 
 And since the kinds of players who spend this much are likely to spend more anyway, they'll probably just get the $100 one every time, so it'll be closer to $500.
 
@@ -594,6 +639,9 @@ While they're at it, they'll probably want to get the character's full potential
 The grand total scales up to the cost of a goddamn car!
 
 <!-- VIS: ($500 x 7) + ($500 x 6) = $6500 -->
+
+Don't even get me started with rebates and free pulls&mdash;that's still hundreds, if not **thousands** of dollars!
+All its done is let you gamble more!
 
 Oh, and if they want to speed up upgrading said character, well guess what: Monochrome can be converted to Polychrome, which can be converted to battery, so they don't have to wait as long.
 
@@ -618,7 +666,8 @@ Oh, so we're just tolerating irresponsible money spend now?
 
 To be clear, I'm not against splurging on things we like.
 
-The issue here is that there's no real value here; you're paying for something that you'll have nothing to show for once the servers shut down&mdash;and they **will** shut down.
+The issue here is that there's no real value here; you're paying for what's basically just big numbers and sexy pixels,
+then you'll have nothing to show for it once the servers shut down&mdash;and they **will** shut down.
 
 Oh, it's about the experience?
 
@@ -634,9 +683,9 @@ Buy everyone a game, then play it together!
 
 Got no friends?
 Go to a LAN, or a convention, and make friends *there*!
-Or if you're really anti-social, at least buy a physical representation of the character you so crave!
 
-**Get a life!!!**
+Or if you're just plumbed out of options, at least buy a physical representation of the character you so crave!
+At least you'll have **something**.
 
 ---
 
@@ -669,13 +718,13 @@ Do you like spending hundreds of dollars for **one character**, in a video game?
 
 With that time **or** money, we could be enjoying a vast array of novel and relaxing experiences, instead of doing the same thing over and over and over and over.
 
-And then, you wonder why the rest of the gaming industry has gone to crap?!
+And then, we wonder why the rest of the gaming industry has gone to crap?!
 
 It's 'cus of things like this!
 
-You allowed this to happen!
+We allowed this to happen!
 
-You **keep** allowing it to happen!
+We **keep** allowing it to happen!
 
 **Why?! Make it make sense!!!**
 
@@ -707,25 +756,28 @@ This doesn't make sense!
 
 When Zenless was released, I had good hopes.
 
-I thought, maybe they took what they learned from the complaints they got from the Genshin and Honkai community and rebuilt their user experience from the ground up for Zenless.
+I thought... maybe they took what they learned from the complaints they got from the Genshin and Honkai community and rebuilt their user experience from the ground up for Zenless.
 
-Since they were also doing massive innovations on the visuals and combat fronts, it wasn't that much of a stretch, so I went ahead and recorded my first time playing the game on the week it was released.
+Since they were also doing massive innovations on the visuals and combat fronts, it wasn't that much of a stretch.
 
-I like to think that I'm not just delirious for thinking this; even just a week ago, as of the time of writing, they released a new feature that helps you understand how characters can best be used, so they're clearly listening for feedback.
+So with that in mind, I went ahead and recorded my first time playing the game on the week it was released.
+
+I like to think that I'm not just delirious for thinking this; even just a week ago, as of the time of writing, they released a new feature that helps you understand how characters can best be used, it's not the best, but it's better than before&mdash;they're clearly still listening for feedback.
 
 But at the same time, they'll bend over backwards just to avoid making the game not feel like a chore.
 
 As much as I subscribe to Hanlon's Razor, I just can't see this as anything but intentional.
 
-If the game **didn't** feel like a chore, you'd actually enjoy the grind, and what's the point of paying then?
-Isn't the fun in playing the hot new character?
+'Cus if the game **didn't** feel like a chore, you'd actually enjoy the grind, and what's the point of paying then?
+Isn't the fun in getting the hot new character?
+Ugh.
 
 ## Stockholm Syndrome
 
 Don't mistake my point here.
 
 From a technical standpoint, Zenless is genuinely impressive.
-The fact that it runs on mobile at all is **insane**.
+The fact that it runs on mobile **at all** is **insane**.
 
 Granted, it looks like hot garbage unless you've got a flagship phone, but still!
 
@@ -748,17 +800,38 @@ Is this really what we want to spend our time and hard-earned money on?
 If it is something you do fully enjoy, don't let me stop you.
 Do what you will with what you have; it's your own time and money.
 
-Just also realize that this exact behavior that you are incentivizing&ndash; that **we** are incentivizing, is also the reason game companies keep taking these predatory monetization schemes over the simpler, more honest methods we used to enjoy.
+But... *(exasperated exhale)*
+You see all the *slop* these game companies have been pushing out for the past decade?
+This... goonerbait we've all just come to tolerate?
 
-For everyone else, there are so many great experiences to be had out there, some for cheap or even free, that it's kind of ridiculous that we just come here because the characters had jelly breast physics.
+Do we **really** want these?
 
----
+If you want **any** semblance of a healthy gaming industry, we've gotta stop playing these!
+
+Why don't we go play something else?
 
 I can keep whining about gacha, I can keep whining about these predatory schemes, but it doesn't matter if we keep paying for it, because money talks.
 
 The only way for this to improve is if we stop giving them our time and money, and say 'respect me; I don't like this.'
 
-And again, if you do like it, then good for you.
+I sure don't have an excuse.
+My backlog is practically overflowing.
+
+**Do not** tell me that you can't find another game you or your friends would enjoy spending an entire summer on.
+
+We've done it before; we'll do it again.
+
+There are more great games today than there has ever been in history&ndash;
+Paid? Cheap? Free?
+For all kinds of devices?
+
+**We** have the leverage, we just have to grow a damn spine!
+
+Don't you want the same game but, without all the bloat?
+
+And again, if you do like it as it currently is, then good for you.
+
+Just know that this exact behavior is what incentivizes them to keep making the experience worse for the rest of us instead of making the best products they could.
 
 Maybe, just maybe, it's time to look past the goonerbait, and try something else.
 
@@ -779,8 +852,17 @@ Oooh! Pretty!
 > [!NOTE]
 > This will be posted as a pinned comment and not a part of the video, mainly because the video is long enough and adding more things to it will only break the flow, so they're addressed here instead.
 
-1. The exact numbers are bound to be subject for debate, but my points stand regardless. You still spend a ton of money for a character in a game, or else be FOMO'd into playing every single day.
-2. As I mentioned, I don't actually care whether ZZZ is a hack-and-slash or not. I talked about it to emphasize a few things: what the focus of the game really is (and therefore your goal as a player), how long it takes to reach said goal, contrast that to other games, and then show that all of that work can be skipped for $455. For those who have a disdain against pay-to-win players, it's because this is an indirect assault to the amount of time and effort they spent working to get that one character.
+1. The main point of the video is to show how exactly gacha games entice players to join in and stay for as long as possible despite the known predatory nature of the genre. As I mentioned in the video, I don't actually care whether ZZZ is a hack-and-slash or an RPG or an action game or a gooner game or whatever; the discussion around gameplay loops is merely to show that if hack-and-slash was truly the point, there wouldn't be such emphasis on mechanics and activities most non-gacha players would not associate with a hack-and-slash or plain action RPG.
+
+2. The exact numbers are bound to be subject for debate, but the points provided stand regardless. Even if the numbers are halved, the total time and/or money players spend on EACH character is still ludicrous. All they had to do to make this acceptable was to make the grind a unique an enjoyable experience. But of course, it's more preferable for them that you spend the money instead.
+
+3. Yes, it is entirely possible for players to simply not care about all those predatory mechanics. If your goal is to simply experience enough of the game that you're immersed in the community, then this is an entirely achievable thing to do even without pulling for a single character. However, this does not change the fact that the game will continually attempt to entice you into spending more time or money than you initially intended. Some may be more resistant to it, but they're the exception to the rule. Nearly all the players I've talked to have either been converted to gacha regulars, became whales themselves, or have long since quit and told others to stay away.
+
+4. If you enjoy the game especially because the game lets you form a routine, this video is not meant to address you. If that slow burn and eventual reward works for you, then cool, go enjoy the game; there's a lot to appreciate here. For everyone else, the player should have complete agency over when they want to play the game. Giving out rewards for returning is one thing, but manipulation through rewards is an entirely different matter.
+
+5. I have no qualms with "call of Bzerq" (the creator behind "How ZZZ became my favorite gacha game"), only some of the arguments they presented in the video and the comments about it. It was never about the magnitude of the issue that I'm concerned with, it's the fact that the problem exists at all.
+
+6. I must reiterate that I also still play ZZZ. I even installed HSR cus I heard Astra was going to be a free character during the collab. That is to say, my problem with all this is the monetization scheme. If it had been a pay-once or even a subscription for full access to all content, I'd be a lot more understanding or perhaps even defend it. Stretching that idea further, I'm considering making a devil's advocate video that discusses the positives of games with controversial monetization schemes. Let me know if you're interested in seeing that.
 
 
 ---
@@ -791,88 +873,3 @@ Oooh! Pretty!
 - overly verbose dialogue
 - unnecessarily obtuse descriptions
 - ^ possibly targeting the lowest common denominator, the ones easiest to prey on
-- sexual appeal / goonerbait
-- gacha is softcore gambling
-- how the game makes it ridiculously easy to spend money as an alternative to spending time
-  - at the best value monochrome purchase, i could buy a wide assortment of real tangible things, 
-  - and yet the game still makes you spend time anyway as a form of retention
-  - have we gone mad? spending tens if not hundreds of dollars for a character in a game, then complain that an entire game costs $80?
-- all because they enticed you into playing because of some sexy pixels on your screen
-  - that WILL go away permanently and irrecoverably once their servers shut down.
-  - unlike most other singleplayer games, we are tied down to their servers, and that's by design
-- we are spending so much time and so much money on a game that actively manipulates us, only to disappear some number of years from now
-
-&nbsp;
-
----
-
-> [!NOTE]
-> This part contains notes and drafts of what I want to include in the however-many'th revision of this script.
-
-Let's say I want to get the Terra Blade&mdash;one of the strongest late-game swords in Terraria.
-
-To do that, I'll need to complete all these different swords, each and every one of which requires me to visit a new biome, fight a different enemy, mine a different material, or some combination of those.
-
-Every time I complete one of these, I also get a new weapon I can use in the meantime, which itself also changes my gameplay, be it for being larger, faster, attacking at range, or whatever other quirk.
-
-In every step of the way, I'm being presented a different challenge and an aptly unique reward for doing so.
-
-And in the end, I get a sword that's strong enough to challenge the final boss of the game: The Moon Lord.
-
-Getting this weapon was extremely grindy and took the better part of an entire week.
-
-But, I was never bored or felt like just rushing through the steps just to get it over with, because I want the intermediary goal just as much as the main goal.
-
-Now, let's contrast this to Zenless, and my goal is to build Roxy to their Trial preset.
-
-To get the upgrade materials, I can complete commissions, play through the main story, maybe buy them instead, but realistically, they're best obtained here.
-
-When I finish upgrading one of the many things for this character, I get... a slightly stronger Roxy.
-
-Okay... well, obviously, no character is meant to be played in this state, so I've gotta upgrade her further.
-
-So far, I've only really visited 2 places, fought the same enemies repeatedly, which&mdash;might I mention feel so same-y?
-
-I don't mean the design, I mean the way you fight them.
-
-I just follow my team's attack pattern, then parry or dodge when the cross appears.
-
-It's not until I fight a boss where it gets interesting, but then I have to fight that same boss like 5 times.
-
-And, again, the reward is just... a higher number.
-
-Then, once I'm finally done upgrading Roxy, I still can't really use her because unless I already happen to have matching characters, which means I've gotta get back on the grind for upgrade materials, or possibly even Polychrome too.
-
-And when I've finally gotten her in a suitable team, guess what, now I've gotta do my homework, because button-mashing ain't exactly the most effective way to play.
-
-Then, when I've finally *finally* done my research, I get... a big number on my screen and a new team that's more effective at fighting the same enemies for my bi-weeklies.
-
-At the very least, I've got a new team with an interesting new way to play.
-
-But by the time the next banner rolls around, this team will get old too.
-
-That's before I even talk about collecting the amount of time you spend collecting the materials themselves.
-
-&nbsp;
-
-> [!NOTE]
-> This point onward contains old drafts of the script.
-> Please ignore.
-> I just kept them there because there are good talking points in them that I could still repurpose.
-
-&nbsp;
-
----
-
-&nbsp;
-
----
-
-&nbsp;
-
----
-
-&nbsp;
-
-
-
