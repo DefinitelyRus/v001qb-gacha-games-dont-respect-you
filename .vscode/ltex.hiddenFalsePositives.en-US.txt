@@ -6,3 +6,4 @@
 {"rule":"IN_WHO","sentence":"^\\QThen, a lot of the time, only then do they find a purpose for said character because the player got them for who the character is, and not for what they're capable of.\\E$"}
 {"rule":"MUCH_COUNTABLE","sentence":"^\\QThere are so much great experiences to be had out there, some for cheap or even free, that it's kind of ridiculous that we just come here because the characters looked pretty.\\E$"}
 {"rule":"COMMA_COMPOUND_SENTENCE","sentence":"^\\QI mean, you could be doing something as mundane as talking to a dog and you'd get Polychrome.\\E$"}
+{"rule":"COMMA_COMPOUND_SENTENCE","sentence":"^\\QI mean, you could be doing something as mundane as talking to a dog and you'd get paid.\\E$"}
