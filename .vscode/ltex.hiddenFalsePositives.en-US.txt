@@ -1,0 +1,8 @@
+{"rule":"BORED_OF","sentence":"^\\QSo you either spend an inordinate amount of money or an inordinate amount of time for some sexy pixels you'll get bored of in a matter of days.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QHere are examples from 3 different games from 3 different publishers and in 3 different non-gacha game genres.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Q... /os/?\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QDespite all that, well, I already have a hundred hours on Steam and counting, and dammit, I'mma'na keep playing it until I'm sick of it.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QOooh!\\E$"}
+{"rule":"IN_WHO","sentence":"^\\QThen, a lot of the time, only then do they find a purpose for said character because the player got them for who the character is, and not for what they're capable of.\\E$"}
+{"rule":"MUCH_COUNTABLE","sentence":"^\\QThere are so much great experiences to be had out there, some for cheap or even free, that it's kind of ridiculous that we just come here because the characters looked pretty.\\E$"}
+{"rule":"COMMA_COMPOUND_SENTENCE","sentence":"^\\QI mean, you could be doing something as mundane as talking to a dog and you'd get Polychrome.\\E$"}
