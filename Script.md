@@ -814,8 +814,15 @@ I can keep whining about gacha, I can keep whining about these predatory schemes
 
 The only way for this to improve is if we stop giving them our time and money, and say 'respect me; I don't like this.'
 
+I'm gonna acknowledge it straight up&mdash;I'm human, I like... anime girls, and I'm part of the problem.
+<!-- VIS: Zoom in on thighs on "I like..." then rapidly pan to the face on "anime girls". -->
+
 I sure don't have an excuse.
-My backlog is practically overflowing.
+My backlog is practically overflowing!
+
+But I can also not like the practices they push upon me.
+
+I'm gonna stop playing, or at least ignore their attempts to woo me into playing against my will.
 
 **Do not** tell me that you can't find another game you or your friends would enjoy spending an entire summer on.
 
@@ -827,14 +834,14 @@ For all kinds of devices?
 
 **We** have the leverage, we just have to grow a damn spine!
 
-Don't you want the same game but, without all the bloat?
+Don't you want the same game, but the grind is actually a fun experience and takes a reasonable amount of time?
 
 And again, if you do like it as it currently is, then good for you.
 
-Just know that this exact behavior is what incentivizes them to keep making the experience worse for the rest of us instead of making the best products they could.
+Just know that this exact behavior is what incentivizes them to keep making the experience worse for the rest of us, instead of making the best products they could.
 
 Maybe, just maybe, it's time to look past the goonerbait, and try something else.
-
+ 
 <!-- VIS: Fade to black -->
 
 <!-- VIS: New character trailer -->
